@@ -1,0 +1,76 @@
+2026-11-22 19:33:09.033 [info] [Shared] Getting Manifest... tomoki1207.pdf
+2026-11-22 19:33:09.240 [info] [Shared] Installing extension: tomoki1207.pdf {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","path":"/C:/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.147.0","date":"2026-11-17T02:46:11Z"}}
+2026-11-22 19:33:10.008 [info] [Shared] Extension signature verification result for tomoki1207.pdf: Success. Internal Code: 0. Executed: true. Duration: 119ms.
+2026-11-22 19:33:10.055 [info] [Shared] Extension installed successfully: tomoki1207.pdf vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json
+2026-11-22 20:54:58.096 [info] [Shared] Getting Manifest... dedale-dev.ariana
+2026-11-22 20:54:58.294 [info] [Shared] Installing extension: dedale-dev.ariana {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","path":"/C:/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.147.0","date":"2026-11-17T02:46:11Z"}}
+2026-11-22 20:54:59.724 [info] [Shared] Extension signature verification result for dedale-dev.ariana: Success. Internal Code: 0. Executed: true. Duration: 118ms.
+2026-11-22 20:54:59.872 [info] [Shared] Extracted extension to file:///c%3A/Users/lacou/.vscode/extensions/dedale-dev.ariana-0.12.0: dedale-dev.ariana
+2026-11-22 20:54:59.879 [info] [Shared] Renamed to c:\Users\lacou\.vscode\extensions\dedale-dev.ariana-0.12.0
+2026-11-22 20:54:59.910 [info] [Shared] Extension installed successfully: dedale-dev.ariana vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json
+2026-11-22 20:58:05.876 [info] [Shared] Getting Manifest... joy7758.agent-debugger
+2026-11-22 20:58:06.109 [info] [Shared] Installing extension: joy7758.agent-debugger {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","path":"/C:/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.147.0","date":"2026-11-17T02:46:11Z"}}
+2026-11-22 20:58:07.236 [info] [Shared] Extension signature verification result for joy7758.agent-debugger: Success. Internal Code: 0. Executed: true. Duration: 85ms.
+2026-11-22 20:58:08.074 [info] [Shared] Extracted extension to file:///c%3A/Users/lacou/.vscode/extensions/joy7758.agent-debugger-0.0.1: joy7758.agent-debugger
+2026-11-22 20:58:08.095 [info] [Shared] Renamed to c:\Users\lacou\.vscode\extensions\joy7758.agent-debugger-0.0.1
+2026-11-22 20:58:08.125 [info] [Shared] Extension installed successfully: joy7758.agent-debugger vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json
+2026-11-22 20:58:14.423 [info] [Shared] Getting Manifest... ranceowo.serialagent-vscode
+2026-11-22 20:58:14.626 [info] [Shared] Installing extension: ranceowo.serialagent-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","path":"/C:/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.147.0","date":"2026-11-17T02:46:11Z"}}
+2026-11-22 20:58:15.825 [info] [Shared] Extension signature verification result for ranceowo.serialagent-vscode: Success. Internal Code: 0. Executed: true. Duration: 102ms.
+2026-11-22 20:58:16.780 [info] [Shared] Extracted extension to file:///c%3A/Users/lacou/.vscode/extensions/ranceowo.serialagent-vscode-1.2.1: ranceowo.serialagent-vscode
+2026-11-22 20:58:16.797 [info] [Shared] Renamed to c:\Users\lacou\.vscode\extensions\ranceowo.serialagent-vscode-1.2.1
+2026-11-22 20:58:16.846 [info] [Shared] Extension installed successfully: ranceowo.serialagent-vscode vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json
+2026-11-22 20:58:53.483 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 21:00:06.860 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 21:00:12.446 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 21:04:16.129 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 21:04:24.930 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 21:07:39.623 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 21:07:59.826 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 21:09:20.202 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 21:26:43.178 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 21:29:22.894 [info] [Shared] Getting Manifest... ms-vscode.remote-repositories
+2026-11-22 21:29:23.064 [info] [Shared] Installing extension: ms-vscode.remote-repositories {"isMachineScoped":false,"donotIncludePackAndDependencies":false,"context":{"skipWalkthrough":true},"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","path":"/C:/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.147.0","date":"2026-11-17T02:46:11Z"}}
+2026-11-22 21:29:23.513 [info] [Shared] Getting Manifest... github.remotehub
+2026-11-22 21:29:23.655 [info] [Shared] Getting Manifest... ms-vscode.azure-repos
+2026-11-22 21:29:23.739 [info] [Shared] Installing extension: github.remotehub {"isMachineScoped":false,"donotIncludePackAndDependencies":false,"context":{"skipWalkthrough":true,"dependecyOrPackExtensionInstall":true},"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","path":"/C:/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.147.0","date":"2026-11-17T02:46:11Z"},"installGivenVersion":false}
+2026-11-22 21:29:23.739 [info] [Shared] Installing extension: ms-vscode.azure-repos {"isMachineScoped":false,"donotIncludePackAndDependencies":false,"context":{"skipWalkthrough":true,"dependecyOrPackExtensionInstall":true},"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","path":"/C:/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.147.0","date":"2026-11-17T02:46:11Z"},"installGivenVersion":false}
+2026-11-22 21:29:24.277 [info] [Shared] Extension signature verification result for github.remotehub: Success. Internal Code: 0. Executed: true. Duration: 156ms.
+2026-11-22 21:29:24.295 [info] [Shared] Extension signature verification result for ms-vscode.remote-repositories: Success. Internal Code: 0. Executed: true. Duration: 99ms.
+2026-11-22 21:29:24.377 [info] [Shared] Extension signature verification result for ms-vscode.azure-repos: Success. Internal Code: 0. Executed: true. Duration: 279ms.
+2026-11-22 21:29:24.418 [info] [Shared] Extension installed successfully: github.remotehub vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json
+2026-11-22 21:29:24.418 [info] [Shared] Extension installed successfully: ms-vscode.remote-repositories vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json
+2026-11-22 21:29:24.418 [info] [Shared] Extension installed successfully: ms-vscode.azure-repos vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json
+2026-11-22 22:07:51.826 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 22:12:41.503 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 22:14:31.478 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 22:15:10.603 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 22:25:24.679 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 22:25:57.847 [info] [Shared] Getting Manifest... ms-mssql.mssql
+2026-11-22 22:25:58.119 [info] [Shared] Installing extension: ms-mssql.mssql {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","path":"/C:/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.147.0","date":"2026-11-17T02:46:11Z"}}
+2026-11-22 22:25:58.446 [info] [Shared] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2026-11-22 22:25:58.663 [info] [Shared] Getting Manifest... ms-mssql.sql-bindings-vscode
+2026-11-22 22:25:58.692 [info] [Shared] Installing extension: ms-mssql.sql-bindings-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","path":"/C:/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.147.0","date":"2026-11-17T02:46:11Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-11-22 22:25:59.666 [info] [Shared] Extension signature verification result for ms-mssql.sql-bindings-vscode: Success. Internal Code: 0. Executed: true. Duration: 128ms.
+2026-11-22 22:25:59.725 [info] [Shared] Extracted extension to file:///c%3A/Users/lacou/.vscode/extensions/ms-mssql.sql-bindings-vscode-0.4.1: ms-mssql.sql-bindings-vscode
+2026-11-22 22:25:59.729 [info] [Shared] Renamed to c:\Users\lacou\.vscode\extensions\ms-mssql.sql-bindings-vscode-0.4.1
+2026-11-22 22:26:02.335 [info] [Shared] Getting Manifest... ggml-org.llama-vscode
+2026-11-22 22:26:02.836 [info] [Shared] Installing extension: ggml-org.llama-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","path":"/C:/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.147.0","date":"2026-11-17T02:46:11Z"}}
+2026-11-22 22:26:03.467 [info] [Shared] Extension signature verification result for ggml-org.llama-vscode: Success. Internal Code: 0. Executed: true. Duration: 112ms.
+2026-11-22 22:26:03.474 [info] [Shared] Extension signature verification result for ms-mssql.mssql: Success. Internal Code: 0. Executed: true. Duration: 429ms.
+2026-11-22 22:26:03.996 [info] [Shared] Extracted extension to file:///c%3A/Users/lacou/.vscode/extensions/ggml-org.llama-vscode-0.0.79: ggml-org.llama-vscode
+2026-11-22 22:26:04.012 [info] [Shared] Renamed to c:\Users\lacou\.vscode\extensions\ggml-org.llama-vscode-0.0.79
+2026-11-22 22:26:04.104 [info] [Shared] Extension installed successfully: ggml-org.llama-vscode vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json
+2026-11-22 22:26:11.189 [info] [Shared] Extracted extension to file:///c%3A/Users/lacou/.vscode/extensions/ms-mssql.mssql-1.48.0: ms-mssql.mssql
+2026-11-22 22:26:11.226 [info] [Shared] Renamed to c:\Users\lacou\.vscode\extensions\ms-mssql.mssql-1.48.0
+2026-11-22 22:26:11.330 [info] [Shared] Extension installed successfully: ms-mssql.sql-bindings-vscode vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json
+2026-11-22 22:26:11.330 [info] [Shared] Extension installed successfully: ms-mssql.mssql vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json
+2026-11-22 22:29:58.952 [info] [Shared] [TunnelAgentHost] Found 1 tunnel(s) with agent host support
+2026-11-22 22:32:45.553 [info] [Shared] Getting Manifest... openai.chatgpt
+2026-11-22 22:32:45.768 [info] [Shared] Installing extension: openai.chatgpt {"installPreReleaseVersion":false,"context":{"extensionInstallSource":"command"},"isMachineScoped":false,"pinned":false,"donotVerifySignature":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","path":"/C:/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.147.0","date":"2026-11-17T02:46:11Z"}}
+2026-11-22 22:32:46.001 [info] [Shared] Getting Manifest... openai.codex-audio
+2026-11-22 22:32:46.018 [info] [Shared] Installing extension: openai.codex-audio {"installPreReleaseVersion":false,"context":{"extensionInstallSource":"command","dependecyOrPackExtensionInstall":true},"isMachineScoped":false,"pinned":false,"donotVerifySignature":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","path":"/C:/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.147.0","date":"2026-11-17T02:46:11Z"},"installGivenVersion":false}
+2026-11-22 22:32:46.245 [info] [Shared] Extension signature verification result for openai.codex-audio: Success. Internal Code: 0. Executed: true. Duration: 112ms.
+2026-11-22 22:32:47.126 [info] [Shared] Extension signature verification result for openai.chatgpt: Success. Internal Code: 0. Executed: true. Duration: 915ms.
+2026-11-22 22:32:47.170 [info] [Shared] Extension installed successfully: openai.codex-audio vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json
+2026-11-22 22:32:47.170 [info] [Shared] Extension installed successfully: openai.chatgpt vscode-userdata:/c%3A/Users/lacou/AppData/Roaming/Code/User/profiles/-19168d/extensions.json
